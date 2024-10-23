@@ -237,5 +237,3 @@ dots_and_boxes = function(n_row = 3, n_col = 3){
 
 dots_and_boxes() #default game 3x3 grid
 dots_and_boxes(n_row = 4, n_col = 5) #n_row x n_col grid
-
-#End of task 5
