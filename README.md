@@ -1,1 +1,1 @@
-# dots_and_boxes
+The game Dots and Boxes is a two-player pencil-and-paper game. It begins with an empty grid of dots, where players alternate turns, drawing a horizontal or vertical line between two adjacent, unconnected dots. If a player completes the fourth side of a 1x1 box, they score a point and get an extra turn. The completed box is marked with the player's color. The game concludes when no more lines can be drawn, and the player with the most points wins. In cases where the grid has an even number of boxes, a tie is possible.
